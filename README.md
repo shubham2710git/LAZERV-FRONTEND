@@ -1,0 +1,1 @@
+This is a clone of the Lazarev Agency website, built for practice and learning purposes. The goal of this project was to replicate the original design and functionality while improving web development skills in HTML, CSS, and JavaScript.
